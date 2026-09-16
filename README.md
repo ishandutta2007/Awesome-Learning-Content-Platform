@@ -116,25 +116,25 @@ Below is the structured breakdown of leading commercial SaaS learning content pl
 
 Open-source LMS software provides complete control over course structures, user administration, security, and data sovereignty.
 
-Below are the top open-source LMS repositories, sorted by **GitHub Stars (Descending)**:
+Below are the top open-source LMS repositories, sorted by **GitHub_Stars (Descending)**:
 
 | Project | Stars | Primary Focus | License | Key Features |
 | :--- | :--- | :--- | :--- | :--- |
-| 💻 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | [![GitHub stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers) | Developer Curriculum & LMS | BSD-3-Clause | Interactive coding lessons, certifications, open curriculum |
-| 🎓 [Canvas LMS](https://github.com/instructure/canvas-lms) | [![GitHub stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social)](https://github.com/instructure/canvas-lms/stargazers) | Modern Institutional LMS | AGPL-3.0 | Modern REST APIs, course building, LTI support, mobile apps |
-| ⭐ [Moodle](https://github.com/moodle/moodle) | [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle?style=social)](https://github.com/moodle/moodle/stargazers) | General-Purpose Enterprise LMS | GPL-3.0 | Plugins ecosystem, competencies, mobile app, SCORM/LTI |
-| 🚀 [Open edX](https://github.com/openedx/openedx-platform) | [![GitHub stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social)](https://github.com/openedx/openedx-platform/stargazers) | MOOCs & Enterprise Scaled Learning | AGPL-3.0 | Studio authoring, XBlocks, cohort management, analytics |
-| ⚡ [Frappe LMS](https://github.com/frappe/lms) | [![GitHub stars](https://img.shields.io/github/stars/frappe/lms?style=social)](https://github.com/frappe/lms/stargazers) | Modern Web LMS | GPL-3.0 | Clean UI, Python/Frappe framework, quizzes, evaluation |
-| 🌐 [Kolibri](https://github.com/learningequality/kolibri) | [![GitHub stars](https://img.shields.io/github/stars/learningequality/kolibri?style=social)](https://github.com/learningequality/kolibri/stargazers) | Offline-First Learning Platform | MIT | Low-bandwidth offline sync, lightweight server, multi-device |
-| 🍒 [Chamilo LMS](https://github.com/chamilo/chamilo-lms) | [![GitHub stars](https://img.shields.io/github/stars/chamilo/chamilo-lms?style=social)](https://github.com/chamilo/chamilo-lms/stargazers) | Lightweight Enterprise LMS | GPL-3.0+ | Easy setup, skills management, session catalog, tracking |
-| 🏫 [Sakai](https://github.com/sakaiproject/sakai) | [![GitHub stars](https://img.shields.io/github/stars/sakaiproject/sakai?style=social)](https://github.com/sakaiproject/sakai/stargazers) | Higher Education LMS | ECL-2.0 | Collaboration tools, assignments, gradebook, rich integration |
-| 🏛️ [ILIAS](https://github.com/ILIAS-eLearning/ILIAS) | [![GitHub stars](https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social)](https://github.com/ILIAS-eLearning/ILIAS/stargazers) | Enterprise & Military LMS | GPL-3.0 | Competency matrix, test/assessment engine, SCORM compliance |
-| 📦 [OpenEduCat](https://github.com/openeducat/openeducat_erp) | [![GitHub stars](https://img.shields.io/github/stars/openeducat/openeducat_erp?style=social)](https://github.com/openeducat/openeducat_erp/stargazers) | ERP + Enterprise LMS | LGPL-3.0 | Built on Odoo, student enrollment, fee management, LMS |
-| 🏫 [Gibbon](https://github.com/GibbonEdu/core) | [![GitHub stars](https://img.shields.io/github/stars/GibbonEdu/core?style=social)](https://github.com/GibbonEdu/core/stargazers) | School & Learning Platform | GPL-3.0 | Planner, gradebook, attendance, lesson plans, flexible modules |
-| 🇨🇭 [OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) | [![GitHub stars](https://img.shields.io/github/stars/OpenOLAT/OpenOLAT?style=social)](https://github.com/OpenOLAT/OpenOLAT/stargazers) | Enterprise Learning System | Apache-2.0 | Scalable Java architecture, exams, chat, group learning |
-| 🏢 [Forma LMS](https://github.com/formalms/forma) | [![GitHub stars](https://img.shields.io/github/stars/formalms/forma?style=social)](https://github.com/formalms/forma/stargazers) | Corporate LMS | GPL-2.0 | Corporate organization charts, skill gaps, compliance |
-| 💻 [Claroline](https://github.com/claroline/Claroline) | [![GitHub stars](https://img.shields.io/github/stars/claroline/Claroline?style=social)](https://github.com/claroline/Claroline/stargazers) | Collaborative Learning Platform | GPL-2.0 | Modular learning paths, workspace collaboration, quizzes |
-| ♿ [ATutor](https://github.com/atutor/ATutor) | [![GitHub stars](https://img.shields.io/github/stars/atutor/ATutor?style=social)](https://github.com/atutor/ATutor/stargazers) | Accessible LMS | GPL-2.0 | WCAG accessibility standards, adaptive content rendering |
+| 💻 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | [![GitHub_Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers) | Developer Curriculum & LMS | BSD-3-Clause | Interactive coding lessons, certifications, open curriculum |
+| 🎓 [Canvas LMS](https://github.com/instructure/canvas-lms) | [![GitHub_Stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social)](https://github.com/instructure/canvas-lms/stargazers) | Modern Institutional LMS | AGPL-3.0 | Modern REST APIs, course building, LTI support, mobile apps |
+| ⭐ [Moodle](https://github.com/moodle/moodle) | [![GitHub_Stars](https://img.shields.io/github/stars/moodle/moodle?style=social)](https://github.com/moodle/moodle/stargazers) | General-Purpose Enterprise LMS | GPL-3.0 | Plugins ecosystem, competencies, mobile app, SCORM/LTI |
+| 🚀 [Open edX](https://github.com/openedx/openedx-platform) | [![GitHub_Stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social)](https://github.com/openedx/openedx-platform/stargazers) | MOOCs & Enterprise Scaled Learning | AGPL-3.0 | Studio authoring, XBlocks, cohort management, analytics |
+| ⚡ [Frappe LMS](https://github.com/frappe/lms) | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/lms?style=social)](https://github.com/frappe/lms/stargazers) | Modern Web LMS | GPL-3.0 | Clean UI, Python/Frappe framework, quizzes, evaluation |
+| 🌐 [Kolibri](https://github.com/learningequality/kolibri) | [![GitHub_Stars](https://img.shields.io/github/stars/learningequality/kolibri?style=social)](https://github.com/learningequality/kolibri/stargazers) | Offline-First Learning Platform | MIT | Low-bandwidth offline sync, lightweight server, multi-device |
+| 🍒 [Chamilo LMS](https://github.com/chamilo/chamilo-lms) | [![GitHub_Stars](https://img.shields.io/github/stars/chamilo/chamilo-lms?style=social)](https://github.com/chamilo/chamilo-lms/stargazers) | Lightweight Enterprise LMS | GPL-3.0+ | Easy setup, skills management, session catalog, tracking |
+| 🏫 [Sakai](https://github.com/sakaiproject/sakai) | [![GitHub_Stars](https://img.shields.io/github/stars/sakaiproject/sakai?style=social)](https://github.com/sakaiproject/sakai/stargazers) | Higher Education LMS | ECL-2.0 | Collaboration tools, assignments, gradebook, rich integration |
+| 🏛️ [ILIAS](https://github.com/ILIAS-eLearning/ILIAS) | [![GitHub_Stars](https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social)](https://github.com/ILIAS-eLearning/ILIAS/stargazers) | Enterprise & Military LMS | GPL-3.0 | Competency matrix, test/assessment engine, SCORM compliance |
+| 📦 [OpenEduCat](https://github.com/openeducat/openeducat_erp) | [![GitHub_Stars](https://img.shields.io/github/stars/openeducat/openeducat_erp?style=social)](https://github.com/openeducat/openeducat_erp/stargazers) | ERP + Enterprise LMS | LGPL-3.0 | Built on Odoo, student enrollment, fee management, LMS |
+| 🏫 [Gibbon](https://github.com/GibbonEdu/core) | [![GitHub_Stars](https://img.shields.io/github/stars/GibbonEdu/core?style=social)](https://github.com/GibbonEdu/core/stargazers) | School & Learning Platform | GPL-3.0 | Planner, gradebook, attendance, lesson plans, flexible modules |
+| 🇨🇭 [OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) | [![GitHub_Stars](https://img.shields.io/github/stars/OpenOLAT/OpenOLAT?style=social)](https://github.com/OpenOLAT/OpenOLAT/stargazers) | Enterprise Learning System | Apache-2.0 | Scalable Java architecture, exams, chat, group learning |
+| 🏢 [Forma LMS](https://github.com/formalms/forma) | [![GitHub_Stars](https://img.shields.io/github/stars/formalms/forma?style=social)](https://github.com/formalms/forma/stargazers) | Corporate LMS | GPL-2.0 | Corporate organization charts, skill gaps, compliance |
+| 💻 [Claroline](https://github.com/claroline/Claroline) | [![GitHub_Stars](https://img.shields.io/github/stars/claroline/Claroline?style=social)](https://github.com/claroline/Claroline/stargazers) | Collaborative Learning Platform | GPL-2.0 | Modular learning paths, workspace collaboration, quizzes |
+| ♿ [ATutor](https://github.com/atutor/ATutor) | [![GitHub_Stars](https://img.shields.io/github/stars/atutor/ATutor?style=social)](https://github.com/atutor/ATutor/stargazers) | Accessible LMS | GPL-2.0 | WCAG accessibility standards, adaptive content rendering |
 
 ---
 
@@ -142,17 +142,17 @@ Below are the top open-source LMS repositories, sorted by **GitHub Stars (Descen
 
 Learning Experience Platforms focus on content aggregation, personalized search, user recommendations, and skill analytics.
 
-Below are top open-source LXP options and core engines, sorted by **GitHub Stars (Descending)**:
+Below are top open-source LXP options and core engines, sorted by **GitHub_Stars (Descending)**:
 
 | Project | Stars | Primary Focus | Description |
 | :--- | :--- | :--- | :--- |
-| 💬 [Discourse](https://github.com/discourse/discourse) | [![GitHub stars](https://img.shields.io/github/stars/discourse/discourse?style=social)](https://github.com/discourse/discourse/stargazers) | Social & Peer Learning | Modern discussion platform for community-driven learning |
-| 💬 [Zulip](https://github.com/zulip/zulip) | [![GitHub stars](https://img.shields.io/github/stars/zulip/zulip?style=social)](https://github.com/zulip/zulip/stargazers) | Cohort Chat & Learning | Threaded team messaging for structured cohort learning |
-| 🎓 [Canvas LMS](https://github.com/instructure/canvas-lms) | [![GitHub stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social)](https://github.com/instructure/canvas-lms/stargazers) | Extensible Platform | Highly customizable API-driven learning environment |
-| ⭐ [Moodle](https://github.com/moodle/moodle) | [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle?style=social)](https://github.com/moodle/moodle/stargazers) | Modular LXP Core | Highly customizable with plugins for personalized learning tracks |
-| 🚀 [Open edX](https://github.com/openedx/openedx-platform) | [![GitHub stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social)](https://github.com/openedx/openedx-platform/stargazers) | Scaled LXP & Content Discovery | Micro-site support, learner dashboards, recommended tracks |
-| ⚡ [Frappe LMS](https://github.com/frappe/lms) | [![GitHub stars](https://img.shields.io/github/stars/frappe/lms?style=social)](https://github.com/frappe/lms/stargazers) | Modern Learner Experience | Fast, responsive modern web portal for learning paths |
-| 🇨🇭 [OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) | [![GitHub stars](https://img.shields.io/github/stars/OpenOLAT/OpenOLAT?style=social)](https://github.com/OpenOLAT/OpenOLAT/stargazers) | Collaborative LXP | Self-directed learning, peer evaluations, adaptive paths |
+| 💬 [Discourse](https://github.com/discourse/discourse) | [![GitHub_Stars](https://img.shields.io/github/stars/discourse/discourse?style=social)](https://github.com/discourse/discourse/stargazers) | Social & Peer Learning | Modern discussion platform for community-driven learning |
+| 💬 [Zulip](https://github.com/zulip/zulip) | [![GitHub_Stars](https://img.shields.io/github/stars/zulip/zulip?style=social)](https://github.com/zulip/zulip/stargazers) | Cohort Chat & Learning | Threaded team messaging for structured cohort learning |
+| 🎓 [Canvas LMS](https://github.com/instructure/canvas-lms) | [![GitHub_Stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social)](https://github.com/instructure/canvas-lms/stargazers) | Extensible Platform | Highly customizable API-driven learning environment |
+| ⭐ [Moodle](https://github.com/moodle/moodle) | [![GitHub_Stars](https://img.shields.io/github/stars/moodle/moodle?style=social)](https://github.com/moodle/moodle/stargazers) | Modular LXP Core | Highly customizable with plugins for personalized learning tracks |
+| 🚀 [Open edX](https://github.com/openedx/openedx-platform) | [![GitHub_Stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social)](https://github.com/openedx/openedx-platform/stargazers) | Scaled LXP & Content Discovery | Micro-site support, learner dashboards, recommended tracks |
+| ⚡ [Frappe LMS](https://github.com/frappe/lms) | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/lms?style=social)](https://github.com/frappe/lms/stargazers) | Modern Learner Experience | Fast, responsive modern web portal for learning paths |
+| 🇨🇭 [OpenOLAT](https://github.com/OpenOLAT/OpenOLAT) | [![GitHub_Stars](https://img.shields.io/github/stars/OpenOLAT/OpenOLAT?style=social)](https://github.com/OpenOLAT/OpenOLAT/stargazers) | Collaborative LXP | Self-directed learning, peer evaluations, adaptive paths |
 
 ---
 
@@ -160,20 +160,20 @@ Below are top open-source LXP options and core engines, sorted by **GitHub Stars
 
 Interactive course authoring provides rich, responsive HTML5 packages, branching scenarios, code execution environments, and simulations.
 
-Sorted by **GitHub Stars (Descending)**:
+Sorted by **GitHub_Stars (Descending)**:
 
 | Project | Stars | Capabilities | Description |
 | :--- | :--- | :--- | :--- |
-| 💻 [Exercism](https://github.com/exercism/exercism) | [![GitHub stars](https://img.shields.io/github/stars/exercism/exercism?style=social)](https://github.com/exercism/exercism/stargazers) | Interactive Code Authoring | Open platform for interactive code practice and mentoring |
-| 🚀 [Coder](https://github.com/coder/coder) | [![GitHub stars](https://img.shields.io/github/stars/coder/coder?style=social)](https://github.com/coder/coder/stargazers) | Cloud Development Sandboxes | Self-hosted developer workspaces for hands-on technical labs |
-| 🐍 [JupyterHub](https://github.com/jupyterhub/jupyterhub) | [![GitHub stars](https://img.shields.io/github/stars/jupyterhub/jupyterhub?style=social)](https://github.com/jupyterhub/jupyterhub/stargazers) | Interactive Data Science Labs | Multi-user hub for Jupyter notebooks, Python, and R labs |
-| 📖 [The Odin Project](https://github.com/TheOdinProject/theodinproject) | [![GitHub stars](https://img.shields.io/github/stars/TheOdinProject/theodinproject?style=social)](https://github.com/TheOdinProject/theodinproject/stargazers) | Open Web Curriculum | Open-source curriculum engine for full-stack web development |
-| 🎮 [Oppia](https://github.com/oppia/oppia) | [![GitHub stars](https://img.shields.io/github/stars/oppia/oppia?style=social)](https://github.com/oppia/oppia/stargazers) | Interactive Lessons | Online tool for creating interactive, adaptive learning lessons |
-| 📱 [Adapt Framework](https://github.com/adaptlearning/adapt_framework) | [![GitHub stars](https://img.shields.io/github/stars/adaptlearning/adapt_framework?style=social)](https://github.com/adaptlearning/adapt_framework/stargazers) | Responsive E-Learning | HTML5 multi-device responsive course authoring framework |
-| 🧩 [Lumi](https://github.com/Lumieducation/Lumi) | [![GitHub stars](https://img.shields.io/github/stars/Lumieducation/Lumi?style=social)](https://github.com/Lumieducation/Lumi/stargazers) | Desktop H5P Authoring | Desktop application to create, edit, and export H5P content |
-| ⚡ [H5P PHP Library](https://github.com/h5p/h5p-php-library) | [![GitHub stars](https://img.shields.io/github/stars/h5p/h5p-php-library?style=social)](https://github.com/h5p/h5p-php-library/stargazers) | Interactive HTML5 Content | Standard framework for interactive quizzes, videos, and games |
-| 🛠️ [eXeLearning](https://github.com/exelearning/iteexe) | [![GitHub stars](https://img.shields.io/github/stars/exelearning/iteexe?style=social)](https://github.com/exelearning/iteexe/stargazers) | Authoring Tool | Open-source authoring editor to build web learning content |
-| 🎨 [Xerte](https://github.com/xerte/xerte) | [![GitHub stars](https://img.shields.io/github/stars/xerte/xerte?style=social)](https://github.com/xerte/xerte/stargazers) | Interactive Learning Objects | Suite of browser-based tools for interactive content creators |
+| 💻 [Exercism](https://github.com/exercism/exercism) | [![GitHub_Stars](https://img.shields.io/github/stars/exercism/exercism?style=social)](https://github.com/exercism/exercism/stargazers) | Interactive Code Authoring | Open platform for interactive code practice and mentoring |
+| 🚀 [Coder](https://github.com/coder/coder) | [![GitHub_Stars](https://img.shields.io/github/stars/coder/coder?style=social)](https://github.com/coder/coder/stargazers) | Cloud Development Sandboxes | Self-hosted developer workspaces for hands-on technical labs |
+| 🐍 [JupyterHub](https://github.com/jupyterhub/jupyterhub) | [![GitHub_Stars](https://img.shields.io/github/stars/jupyterhub/jupyterhub?style=social)](https://github.com/jupyterhub/jupyterhub/stargazers) | Interactive Data Science Labs | Multi-user hub for Jupyter notebooks, Python, and R labs |
+| 📖 [The Odin Project](https://github.com/TheOdinProject/theodinproject) | [![GitHub_Stars](https://img.shields.io/github/stars/TheOdinProject/theodinproject?style=social)](https://github.com/TheOdinProject/theodinproject/stargazers) | Open Web Curriculum | Open-source curriculum engine for full-stack web development |
+| 🎮 [Oppia](https://github.com/oppia/oppia) | [![GitHub_Stars](https://img.shields.io/github/stars/oppia/oppia?style=social)](https://github.com/oppia/oppia/stargazers) | Interactive Lessons | Online tool for creating interactive, adaptive learning lessons |
+| 📱 [Adapt Framework](https://github.com/adaptlearning/adapt_framework) | [![GitHub_Stars](https://img.shields.io/github/stars/adaptlearning/adapt_framework?style=social)](https://github.com/adaptlearning/adapt_framework/stargazers) | Responsive E-Learning | HTML5 multi-device responsive course authoring framework |
+| 🧩 [Lumi](https://github.com/Lumieducation/Lumi) | [![GitHub_Stars](https://img.shields.io/github/stars/Lumieducation/Lumi?style=social)](https://github.com/Lumieducation/Lumi/stargazers) | Desktop H5P Authoring | Desktop application to create, edit, and export H5P content |
+| ⚡ [H5P PHP Library](https://github.com/h5p/h5p-php-library) | [![GitHub_Stars](https://img.shields.io/github/stars/h5p/h5p-php-library?style=social)](https://github.com/h5p/h5p-php-library/stargazers) | Interactive HTML5 Content | Standard framework for interactive quizzes, videos, and games |
+| 🛠️ [eXeLearning](https://github.com/exelearning/iteexe) | [![GitHub_Stars](https://img.shields.io/github/stars/exelearning/iteexe?style=social)](https://github.com/exelearning/iteexe/stargazers) | Authoring Tool | Open-source authoring editor to build web learning content |
+| 🎨 [Xerte](https://github.com/xerte/xerte) | [![GitHub_Stars](https://img.shields.io/github/stars/xerte/xerte?style=social)](https://github.com/xerte/xerte/stargazers) | Interactive Learning Objects | Suite of browser-based tools for interactive content creators |
 
 ---
 
@@ -181,18 +181,18 @@ Sorted by **GitHub Stars (Descending)**:
 
 Video forms the backbone of commercial tech learning libraries. Open-source media software delivers self-hosted video streaming, live classrooms, and transcoding.
 
-Sorted by **GitHub Stars (Descending)**:
+Sorted by **GitHub_Stars (Descending)**:
 
 | Project | Stars | Role | Key Features |
 | :--- | :--- | :--- | :--- |
-| 🍿 [Jellyfin](https://github.com/jellyfin/jellyfin) | [![GitHub stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social)](https://github.com/jellyfin/jellyfin/stargazers) | Media Streaming Server | Self-hosted media system for organizing and streaming video libraries |
-| 📹 [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social)](https://github.com/jitsi/jitsi-meet/stargazers) | Video Conferencing | Fully encrypted, open-source video conferencing and virtual classrooms |
-| 📡 [MediaMTX](https://github.com/bluenviron/mediamtx) | [![GitHub stars](https://img.shields.io/github/stars/bluenviron/mediamtx?style=social)](https://github.com/bluenviron/mediamtx/stargazers) | Media Streaming Server | Zero-dependency real-time HLS, RTSP, WebRTC streaming server |
-| 📺 [PeerTube](https://github.com/Chocobozzz/PeerTube) | [![GitHub stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=social)](https://github.com/Chocobozzz/PeerTube/stargazers) | Federated Video Platform | Decentralized peer-to-peer video platform for educational channels |
-| 🏫 [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) | [![GitHub stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social)](https://github.com/bigbluebutton/bigbluebutton/stargazers) | Virtual Classroom | Real-time whiteboard, polling, breakout rooms, and session recording |
-| 🔴 [Owncast](https://github.com/owncast/owncast) | [![GitHub stars](https://img.shields.io/github/stars/owncast/owncast?style=social)](https://github.com/owncast/owncast/stargazers) | Live Video Streaming | Independent live video streaming and chat server for live training |
-| 🎥 [MediaCMS](https://github.com/mediacms-io/mediacms) | [![GitHub stars](https://img.shields.io/github/stars/mediacms-io/mediacms?style=social)](https://github.com/mediacms-io/mediacms/stargazers) | Educational Video Portal | Modern Django/Vue video CMS designed for educational institutions |
-| 📼 [Kaltura CE](https://github.com/kaltura/platform-install-packages) | [![GitHub stars](https://img.shields.io/github/stars/kaltura/platform-install-packages?style=social)](https://github.com/kaltura/platform-install-packages/stargazers) | Enterprise Video Platform | Open-source enterprise video ingestion, transcoding, and analytics |
+| 🍿 [Jellyfin](https://github.com/jellyfin/jellyfin) | [![GitHub_Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social)](https://github.com/jellyfin/jellyfin/stargazers) | Media Streaming Server | Self-hosted media system for organizing and streaming video libraries |
+| 📹 [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | [![GitHub_Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social)](https://github.com/jitsi/jitsi-meet/stargazers) | Video Conferencing | Fully encrypted, open-source video conferencing and virtual classrooms |
+| 📡 [MediaMTX](https://github.com/bluenviron/mediamtx) | [![GitHub_Stars](https://img.shields.io/github/stars/bluenviron/mediamtx?style=social)](https://github.com/bluenviron/mediamtx/stargazers) | Media Streaming Server | Zero-dependency real-time HLS, RTSP, WebRTC streaming server |
+| 📺 [PeerTube](https://github.com/Chocobozzz/PeerTube) | [![GitHub_Stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=social)](https://github.com/Chocobozzz/PeerTube/stargazers) | Federated Video Platform | Decentralized peer-to-peer video platform for educational channels |
+| 🏫 [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) | [![GitHub_Stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social)](https://github.com/bigbluebutton/bigbluebutton/stargazers) | Virtual Classroom | Real-time whiteboard, polling, breakout rooms, and session recording |
+| 🔴 [Owncast](https://github.com/owncast/owncast) | [![GitHub_Stars](https://img.shields.io/github/stars/owncast/owncast?style=social)](https://github.com/owncast/owncast/stargazers) | Live Video Streaming | Independent live video streaming and chat server for live training |
+| 🎥 [MediaCMS](https://github.com/mediacms-io/mediacms) | [![GitHub_Stars](https://img.shields.io/github/stars/mediacms-io/mediacms?style=social)](https://github.com/mediacms-io/mediacms/stargazers) | Educational Video Portal | Modern Django/Vue video CMS designed for educational institutions |
+| 📼 [Kaltura CE](https://github.com/kaltura/platform-install-packages) | [![GitHub_Stars](https://img.shields.io/github/stars/kaltura/platform-install-packages?style=social)](https://github.com/kaltura/platform-install-packages/stargazers) | Enterprise Video Platform | Open-source enterprise video ingestion, transcoding, and analytics |
 
 ---
 
@@ -200,22 +200,22 @@ Sorted by **GitHub Stars (Descending)**:
 
 Enterprise learning ecosystems frequently integrate technical documentation, internal wikis, and structured knowledge bases alongside formal LMS courses.
 
-Sorted by **GitHub Stars (Descending)**:
+Sorted by **GitHub_Stars (Descending)**:
 
 | Project | Stars | Focus | Description |
 | :--- | :--- | :--- | :--- |
-| 🚀 [Strapi](https://github.com/strapi/strapi) | [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social)](https://github.com/strapi/strapi/stargazers) | Headless Content Repository | Open-source Node.js headless CMS for multi-channel learning assets |
-| 📄 [Docusaurus](https://github.com/facebook/docusaurus) | [![GitHub stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social)](https://github.com/facebook/docusaurus/stargazers) | Technical Documentation | React-based static site generator optimized for tech learning portals |
-| 📱 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | Knowledge Workspace | Open-source Notion alternative for self-hosted study notes & wikis |
-| 📝 [AFFiNE](https://github.com/toeverything/AFFiNE) | [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social)](https://github.com/toeverything/AFFiNE/stargazers) | Hybrid Canvas & Knowledge Base | All-in-one workspace for visual docs, whiteboards, and learning tracks |
-| 📝 [Outline](https://github.com/outline/outline) | [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social)](https://github.com/outline/outline/stargazers) | Team Knowledge Base | Fast, collaborative Markdown knowledge base for engineering teams |
-| 📦 [Directus](https://github.com/directus/directus) | [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social)](https://github.com/directus/directus/stargazers) | Content Data Platform | Headless data platform for managing course catalogs and media |
-| 💡 [Wiki.js](https://github.com/requarks/wiki) | [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social)](https://github.com/requarks/wiki/stargazers) | Enterprise Wiki | Node.js wiki engine with Git sync, Markdown, and visual editor |
-| 🎨 [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) | [![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social)](https://github.com/squidfunk/mkdocs-material/stargazers) | Technical Knowledge Base | Beautiful, searchable documentation theme with code syntax highlighting |
-| 📚 [BookStack](https://github.com/BookStackApp/BookStack) | [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social)](https://github.com/BookStackApp/BookStack/stargazers) | Structured Knowledge Base | Organized hierarchical knowledge system (Books, Chapters, Pages) |
-| 📚 [MkDocs](https://github.com/mkdocs/mkdocs) | [![GitHub stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=social)](https://github.com/mkdocs/mkdocs/stargazers) | Documentation Engine | Fast Python static site generator project for project documentation |
-| ✍️ [Documenso](https://github.com/documenso/documenso) | [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social)](https://github.com/documenso/documenso/stargazers) | Document Workflows | Open-source document signing and compliance certification platform |
-| 🌐 [MediaWiki](https://github.com/wikimedia/mediawiki) | [![GitHub stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=social)](https://github.com/wikimedia/mediawiki/stargazers) | Collaborative Wiki | Battle-tested wiki software powering Wikipedia for massive knowledge bases |
+| 🚀 [Strapi](https://github.com/strapi/strapi) | [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social)](https://github.com/strapi/strapi/stargazers) | Headless Content Repository | Open-source Node.js headless CMS for multi-channel learning assets |
+| 📄 [Docusaurus](https://github.com/facebook/docusaurus) | [![GitHub_Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social)](https://github.com/facebook/docusaurus/stargazers) | Technical Documentation | React-based static site generator optimized for tech learning portals |
+| 📱 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | Knowledge Workspace | Open-source Notion alternative for self-hosted study notes & wikis |
+| 📝 [AFFiNE](https://github.com/toeverything/AFFiNE) | [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social)](https://github.com/toeverything/AFFiNE/stargazers) | Hybrid Canvas & Knowledge Base | All-in-one workspace for visual docs, whiteboards, and learning tracks |
+| 📝 [Outline](https://github.com/outline/outline) | [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social)](https://github.com/outline/outline/stargazers) | Team Knowledge Base | Fast, collaborative Markdown knowledge base for engineering teams |
+| 📦 [Directus](https://github.com/directus/directus) | [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social)](https://github.com/directus/directus/stargazers) | Content Data Platform | Headless data platform for managing course catalogs and media |
+| 💡 [Wiki.js](https://github.com/requarks/wiki) | [![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social)](https://github.com/requarks/wiki/stargazers) | Enterprise Wiki | Node.js wiki engine with Git sync, Markdown, and visual editor |
+| 🎨 [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) | [![GitHub_Stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social)](https://github.com/squidfunk/mkdocs-material/stargazers) | Technical Knowledge Base | Beautiful, searchable documentation theme with code syntax highlighting |
+| 📚 [BookStack](https://github.com/BookStackApp/BookStack) | [![GitHub_Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social)](https://github.com/BookStackApp/BookStack/stargazers) | Structured Knowledge Base | Organized hierarchical knowledge system (Books, Chapters, Pages) |
+| 📚 [MkDocs](https://github.com/mkdocs/mkdocs) | [![GitHub_Stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=social)](https://github.com/mkdocs/mkdocs/stargazers) | Documentation Engine | Fast Python static site generator project for project documentation |
+| ✍️ [Documenso](https://github.com/documenso/documenso) | [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social)](https://github.com/documenso/documenso/stargazers) | Document Workflows | Open-source document signing and compliance certification platform |
+| 🌐 [MediaWiki](https://github.com/wikimedia/mediawiki) | [![GitHub_Stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=social)](https://github.com/wikimedia/mediawiki/stargazers) | Collaborative Wiki | Battle-tested wiki software powering Wikipedia for massive knowledge bases |
 
 ---
 
@@ -223,16 +223,16 @@ Sorted by **GitHub Stars (Descending)**:
 
 Skills-based learning infrastructure requires connecting job roles, skill taxonomies, competency graphs, and employee identity.
 
-Sorted by **GitHub Stars (Descending)**:
+Sorted by **GitHub_Stars (Descending)**:
 
 | Project / Technology | Stars | Role | Capabilities |
 | :--- | :--- | :--- | :--- |
-| 🔑 [Keycloak](https://github.com/keycloak/keycloak) | [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social)](https://github.com/keycloak/keycloak/stargazers) | Enterprise Identity & Access | Open-source IAM, OAuth2, OIDC, single sign-on for LMS portals |
-| 🔍 [OpenSearch](https://github.com/opensearch-project/OpenSearch) | [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social)](https://github.com/opensearch-project/OpenSearch/stargazers) | Skills & Content Search | Distributed vector and full-text search engine for skill catalogs |
-| ⭐ [Moodle](https://github.com/moodle/moodle) | [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle?style=social)](https://github.com/moodle/moodle/stargazers) | Native Competency Framework | Built-in competency frameworks, learning plans, and skill tracking |
-| 👥 [Frappe HR](https://github.com/frappe/hrms) | [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social)](https://github.com/frappe/hrms/stargazers) | Open-Source HRMS | Employee data, job roles, performance evaluations, skill records |
-| 🚀 [Open edX](https://github.com/openedx/openedx-platform) | [![GitHub stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social)](https://github.com/openedx/openedx-platform/stargazers) | Learner Pathways & Skills | Micro-credentials, skill badges, and learner record integrations |
-| 🏛️ [ILIAS](https://github.com/ILIAS-eLearning/ILIAS) | [![GitHub stars](https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social)](https://github.com/ILIAS-eLearning/ILIAS/stargazers) | Competency Management | Deep skill gap analysis, position profiles, and target competencies |
+| 🔑 [Keycloak](https://github.com/keycloak/keycloak) | [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social)](https://github.com/keycloak/keycloak/stargazers) | Enterprise Identity & Access | Open-source IAM, OAuth2, OIDC, single sign-on for LMS portals |
+| 🔍 [OpenSearch](https://github.com/opensearch-project/OpenSearch) | [![GitHub_Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social)](https://github.com/opensearch-project/OpenSearch/stargazers) | Skills & Content Search | Distributed vector and full-text search engine for skill catalogs |
+| ⭐ [Moodle](https://github.com/moodle/moodle) | [![GitHub_Stars](https://img.shields.io/github/stars/moodle/moodle?style=social)](https://github.com/moodle/moodle/stargazers) | Native Competency Framework | Built-in competency frameworks, learning plans, and skill tracking |
+| 👥 [Frappe HR](https://github.com/frappe/hrms) | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social)](https://github.com/frappe/hrms/stargazers) | Open-Source HRMS | Employee data, job roles, performance evaluations, skill records |
+| 🚀 [Open edX](https://github.com/openedx/openedx-platform) | [![GitHub_Stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social)](https://github.com/openedx/openedx-platform/stargazers) | Learner Pathways & Skills | Micro-credentials, skill badges, and learner record integrations |
+| 🏛️ [ILIAS](https://github.com/ILIAS-eLearning/ILIAS) | [![GitHub_Stars](https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social)](https://github.com/ILIAS-eLearning/ILIAS/stargazers) | Competency Management | Deep skill gap analysis, position profiles, and target competencies |
 
 ---
 
@@ -240,16 +240,16 @@ Sorted by **GitHub Stars (Descending)**:
 
 Learning analytics transforms raw student activities into quantitative performance metrics and compliance telemetry.
 
-Sorted by **GitHub Stars (Descending)**:
+Sorted by **GitHub_Stars (Descending)**:
 
 | Project | Stars | Role | Description |
 | :--- | :--- | :--- | :--- |
-| 📈 [Grafana](https://github.com/grafana/grafana) | [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) | Operational Dashboards | Real-time monitoring and metric dashboards for learning platforms |
-| 📊 [Apache Superset](https://github.com/apache/superset) | [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social)](https://github.com/apache/superset/stargazers) | Enterprise BI Platform | Data exploration and interactive visualization platform for LMS metrics |
-| ⚡ [ClickHouse](https://github.com/ClickHouse/ClickHouse) | [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social)](https://github.com/ClickHouse/ClickHouse/stargazers) | High-Performance Analytics | Columnar DBMS for real-time xAPI event streaming and telemetry data |
-| 📈 [Metabase](https://github.com/metabase/metabase) | [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social)](https://github.com/metabase/metabase/stargazers) | Business Intelligence | Fast, intuitive analytics and self-service dashboards for non-tech users |
-| ⭐ [Moodle Analytics](https://github.com/moodle/moodle) | [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle?style=social)](https://github.com/moodle/moodle/stargazers) | Native Machine Learning | Predictive analytics models to identify at-risk learners early |
-| 📥 [Learning Locker](https://github.com/LearningLocker/learninglocker) | [![GitHub stars](https://img.shields.io/github/stars/LearningLocker/learninglocker?style=social)](https://github.com/LearningLocker/learninglocker/stargazers) | Learning Record Store (LRS) | Open-source LRS for collecting, validating, and querying xAPI data |
+| 📈 [Grafana](https://github.com/grafana/grafana) | [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) | Operational Dashboards | Real-time monitoring and metric dashboards for learning platforms |
+| 📊 [Apache Superset](https://github.com/apache/superset) | [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social)](https://github.com/apache/superset/stargazers) | Enterprise BI Platform | Data exploration and interactive visualization platform for LMS metrics |
+| ⚡ [ClickHouse](https://github.com/ClickHouse/ClickHouse) | [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social)](https://github.com/ClickHouse/ClickHouse/stargazers) | High-Performance Analytics | Columnar DBMS for real-time xAPI event streaming and telemetry data |
+| 📈 [Metabase](https://github.com/metabase/metabase) | [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social)](https://github.com/metabase/metabase/stargazers) | Business Intelligence | Fast, intuitive analytics and self-service dashboards for non-tech users |
+| ⭐ [Moodle Analytics](https://github.com/moodle/moodle) | [![GitHub_Stars](https://img.shields.io/github/stars/moodle/moodle?style=social)](https://github.com/moodle/moodle/stargazers) | Native Machine Learning | Predictive analytics models to identify at-risk learners early |
+| 📥 [Learning Locker](https://github.com/LearningLocker/learninglocker) | [![GitHub_Stars](https://img.shields.io/github/stars/LearningLocker/learninglocker?style=social)](https://github.com/LearningLocker/learninglocker/stargazers) | Learning Record Store (LRS) | Open-source LRS for collecting, validating, and querying xAPI data |
 
 ---
 
@@ -257,19 +257,19 @@ Sorted by **GitHub Stars (Descending)**:
 
 Integrating open LLMs, retrieval-augmented generation (RAG), and vector databases transforms static courseware into conversational AI tutors.
 
-Sorted by **GitHub Stars (Descending)**:
+Sorted by **GitHub_Stars (Descending)**:
 
 | Project | Stars | Role | Description |
 | :--- | :--- | :--- | :--- |
-| 🦙 [Ollama](https://github.com/ollama/ollama) | [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama/stargazers) | Local LLM Runtime | Lightweight, self-hosted runtime to run open LLMs locally (Llama 3, DeepSeek) |
-| 🦜 [LangChain](https://github.com/langchain-ai/langchain) | [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain/stargazers) | LLM Application Framework | Framework for building AI agent workflows and custom learning tutors |
-| 🤖 [Open WebUI](https://github.com/open-webui/open-webui) | [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)](https://github.com/open-webui/open-webui/stargazers) | Conversational AI UI | Self-hosted ChatGPT-like web interface for interactive student support |
-| 🦙 [LlamaIndex](https://github.com/run-llama/llama_index) | [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)](https://github.com/run-llama/llama_index/stargazers) | Data Framework for RAG | Ingestion and retrieval framework connecting course documents to LLMs |
-| ⚡ [vLLM](https://github.com/vllm-project/vllm) | [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm/stargazers) | High-Throughput LLM Server | Fast, memory-efficient LLM serving engine for enterprise AI workloads |
-| 🌌 [Milvus](https://github.com/milvus-io/milvus) | [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)](https://github.com/milvus-io/milvus/stargazers) | Distributed Vector Database | Highly scalable open-source vector DB built for cloud-native RAG |
-| 🎯 [Qdrant](https://github.com/qdrant/qdrant) | [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social)](https://github.com/qdrant/qdrant/stargazers) | Vector Search Engine | Rust-based vector search engine with payload filtering for learning data |
-| 🌾 [Haystack](https://github.com/deepset-ai/haystack) | [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)](https://github.com/deepset-ai/haystack/stargazers) | Orchestration Framework | Modular NLP and RAG pipeline engine for educational Q&A applications |
-| 🔎 [Weaviate](https://github.com/weaviate/weaviate) | [![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social)](https://github.com/weaviate/weaviate/stargazers) | AI Vector Database | Open-source vector database supporting multi-modal embeddings and search |
+| 🦙 [Ollama](https://github.com/ollama/ollama) | [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama/stargazers) | Local LLM Runtime | Lightweight, self-hosted runtime to run open LLMs locally (Llama 3, DeepSeek) |
+| 🦜 [LangChain](https://github.com/langchain-ai/langchain) | [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain/stargazers) | LLM Application Framework | Framework for building AI agent workflows and custom learning tutors |
+| 🤖 [Open WebUI](https://github.com/open-webui/open-webui) | [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)](https://github.com/open-webui/open-webui/stargazers) | Conversational AI UI | Self-hosted ChatGPT-like web interface for interactive student support |
+| 🦙 [LlamaIndex](https://github.com/run-llama/llama_index) | [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)](https://github.com/run-llama/llama_index/stargazers) | Data Framework for RAG | Ingestion and retrieval framework connecting course documents to LLMs |
+| ⚡ [vLLM](https://github.com/vllm-project/vllm) | [![GitHub_Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm/stargazers) | High-Throughput LLM Server | Fast, memory-efficient LLM serving engine for enterprise AI workloads |
+| 🌌 [Milvus](https://github.com/milvus-io/milvus) | [![GitHub_Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)](https://github.com/milvus-io/milvus/stargazers) | Distributed Vector Database | Highly scalable open-source vector DB built for cloud-native RAG |
+| 🎯 [Qdrant](https://github.com/qdrant/qdrant) | [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social)](https://github.com/qdrant/qdrant/stargazers) | Vector Search Engine | Rust-based vector search engine with payload filtering for learning data |
+| 🌾 [Haystack](https://github.com/deepset-ai/haystack) | [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)](https://github.com/deepset-ai/haystack/stargazers) | Orchestration Framework | Modular NLP and RAG pipeline engine for educational Q&A applications |
+| 🔎 [Weaviate](https://github.com/weaviate/weaviate) | [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social)](https://github.com/weaviate/weaviate/stargazers) | AI Vector Database | Open-source vector database supporting multi-modal embeddings and search |
 
 ---
 
