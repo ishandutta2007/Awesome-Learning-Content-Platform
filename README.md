@@ -76,6 +76,7 @@ This repository provides an exhaustive comparison of commercial hosted SaaS solu
 * [🧩 Commercial Platform → Open-Source Equivalents](#-commercial-platform--open-source-equivalents)
 * [🏗️ Enterprise Architecture & Deployment Stacks](#️-enterprise-architecture--deployment-stacks)
 * [🤝 Contributing](#-contributing)
+* [💖 Support & Community](#-support--community)
 * [📈 Star History](#-star-history)
 
 ---
@@ -364,9 +365,26 @@ Contributions are warmly welcomed! Please feel free to submit a Pull Request to 
 
 ---
 
+## 💖 Support & Community
+
+Thank you for exploring the **Awesome Learning Content Platform** directory! If you found this repository valuable for your research, project development, or enterprise learning architecture:
+
+* ⭐ **Star** this repository to show your support and help others discover it!
+* 🍴 **Fork** it to build your own learning stack roadmap.
+* 📢 **Share** it with fellow software engineers, educators, and L&D specialists.
+* ☕ **Buy Me a Coffee / Sponsor**: If you'd like to support continued open-source research and maintenance, consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
+  </a>
+</p>
+
+---
+
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Learning-Content-Platform&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Learning-Content-Platform&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Learning-Content-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Learning-Content-Platform&type=date&legend=top-left)
 
 ---
 
